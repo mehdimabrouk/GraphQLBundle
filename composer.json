@@ -1,15 +1,11 @@
 {
-  "name": "youshido/graphql-bundle",
+  "name": "mehdimabrouk/graphql-bundle",
   "description": "Symfony GraphQl Bundle",
   "license": "MIT",
   "authors": [
     {
-      "name": "Portey Vasil",
-      "email": "portey@gmail.com"
-    },
-    {
-      "name": "Alexandr Viniychuk",
-      "email": "a@viniychuk.com"
+      "name": "Mehdi Mabrouk",
+      "email": "mehdi.mbrk@gmail.com"
     }
   ],
   "autoload": {
